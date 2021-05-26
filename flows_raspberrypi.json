@@ -20367,12 +20367,12 @@
         ],
         "repeat": "",
         "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
+        "once": true,
+        "onceDelay": "1",
         "topic": "",
         "payload": "PRODUCT_INFO.PRODUCT",
         "payloadType": "global",
-        "x": 180,
+        "x": 190,
         "y": 100,
         "wires": [
             [
